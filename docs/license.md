@@ -1,3 +1,17 @@
+# Tech Cooperative License Standard
+TODO vote and discuss
+# License Type
+
+- License MUST be in the root of the repository
+- License MUST be called "LICENSE"
+
+# Format
+
+- License MUST include the year and "Tech Cooperative"
+- License MUST include a link to "https://techcoop.group"
+- License MAY append other applicable licenses
+
+# Example of format
 MIT License
 
 Copyright (c) 2017 Tech Cooperative (https://techcoop.group)

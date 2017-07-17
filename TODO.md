@@ -8,6 +8,7 @@
 - Create git branching naming conventions / standards
   - release/0.1.0
   - feature/1-issue-one
+  - with v or without v
   
 ## To Discuss
 

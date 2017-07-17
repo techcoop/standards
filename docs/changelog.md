@@ -20,3 +20,7 @@
       - None
     - Other Changes
       - Added basic APPS script for handling POSTS
+
+TODO discuss and vote
+TODO changelog generators
+TODO discuss library version management

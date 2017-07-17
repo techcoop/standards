@@ -5,19 +5,27 @@ Tech Cooperative - Central references for code style, contributing, and other do
 
 ## Changelog
 The standard for reporting information about new changes to projects. 
-[Read more](documents/changelog.md)
+[Read more](docs/changelog.md)
 
 ## Contributing
 Learn how to get involved in our projects.
-[Read more](documents/contributing.md)
+[Read more](docs/contributing.md)
 
 ## Contributors
 The standard to use for listing the people who contribute to projects.
-[Read more](documents/contributors.md)
+[Read more](docs/contributors.md)
+
+## Repositories
+Standard files and requirements for tech coop repositories
+[Read more](docs/contributors.md)
+
+## License
+License standard for tech coop projects
+[Read more](docs/license.md)
 
 ## Versioning
 Semantic versioning is used to manage all releases of projects.
-[Read more](documents/versioning.md)
+[Read more](docs/versioning.md)
 
 # Standards
 The same standards apply across all projects in the tech cooperative organization.  
@@ -63,5 +71,4 @@ https://tools.ietf.org/html/rfc2119
    does not include the option (except, of course, for the feature the
    option provides.)
    
-
 # Contributors
